@@ -36,7 +36,7 @@ public class Tracker {
         boolean valid = false;
 
         if (valid = true) {
-            // whatever whenever :)
+            // whatever whenever :)..
         }
 
         return entries.get(index);
